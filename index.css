@@ -1,0 +1,32 @@
+.first-slider,
+.second-slider,
+.third-slider {
+    margin-bottom: 30px;
+}
+
+.swiper {
+    width: 100%;
+    max-width: 600px;
+    height: 400px;
+    margin: 0 auto;
+}
+
+.swiper-slide img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.mySwiper-thumbs {
+    top: 10px;
+    width: 100%;
+    max-width: 600px;
+    height: 100px;
+    margin: 0 auto;
+    align-items: center;
+}
+
+.mySwiper-thumbs .swiper-slide img {
+    width: 100%;
+    object-fit: cover;
+}
